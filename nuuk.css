@@ -272,7 +272,7 @@ section{
     letter-spacing: 14px;
     line-height: 90px;
     margin-left: -50px;
-    color: rgba(240, 240, 243, 0.438);
+    color: rgba(206, 206, 209, 0.329);
 }
 .heading-title{
     display: flex;
@@ -370,7 +370,7 @@ section{
     margin-left: 735px;
     margin-top: -20px;
     text-transform: uppercase;
-    color: rgba(207, 207, 211, 0.192);
+    color: rgba(206, 206, 209, 0.329);
 }
 .aside-back-title h1{
     display: flex;
@@ -472,7 +472,7 @@ section{
     margin-left: 18px;
     margin-top: 70px;
     text-transform: uppercase;
-    color: rgba(240, 240, 243, 0.582);
+    color: rgba(201, 201, 206, 0.253);
 }
  .top-title{
     display: flex;
@@ -655,7 +655,7 @@ section{
     line-height: 30px;
     margin-left: 60px;
     text-transform: uppercase;
-    color: rgba(240, 240, 243, 0.459);
+    color: rgba(225, 225, 228, 0.445);
 }
 .team-title {
     display: flex;
@@ -821,7 +821,7 @@ section{
     line-height: 10px;
     margin-left: 8px;
     text-transform: uppercase;
-    color: rgba(236, 236, 236, 0.452);
+    color: rgba(208, 208, 212, 0.315);
 }
 .clien-top-title {
     display: flex;
@@ -959,7 +959,7 @@ section{
     line-height: 30px;
     margin-left: 60px;
     text-transform: uppercase;
-    color: rgba(240, 240, 243, 0.459);
+    color: rgba(238, 238, 238, 0.472);
 }
 .blog-top-title{
     display: flex;
